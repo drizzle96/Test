@@ -1,0 +1,9 @@
+# include <stdio.h>
+# include <Windows.h>
+# include <string.h>
+# include <stdlib.h>
+# include "ball.h"
+# include "game.h"
+# include "param.h"
+# include "screen.h"
+# include "sound.h"
