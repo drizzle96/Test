@@ -250,7 +250,7 @@ void selectMode()
 	gotoxy(OPTION_X, OPTION_Y);
 	printf("NORMAL GAME");
 	gotoxy(OPTION_X, OPTION_Y + 2);
-	printf("20 BALLS GAME");
+	printf("30 BALLS GAME");
 
 	if (players == 1) mode = upDownButton(2);
 
